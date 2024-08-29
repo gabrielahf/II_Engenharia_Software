@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AppLobo/AppLobo.iml" filepath="$PROJECT_DIR$/AppLobo/AppLobo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lobo/Lobo.iml" filepath="$PROJECT_DIR$/Lobo/Lobo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/referencias (ArrayList).iml" filepath="$PROJECT_DIR$/.idea/referencias (ArrayList).iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08c9440e-bbdf-4efb-83f1-5c21e3eb8595" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Intro. Software/GabrielaRoxo_MarcoPrisco/PairProgramming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleçao/.idea/Coleçao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleçao/out/production/Coleçao/.idea/Coleçao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excecao/.idea/Excecao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excecao/out/production/Excecao/.idea/Excecao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio Extra(ArrayList)/.idea/Exercicio Extra(ArrayList).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio Extra(ArrayList)/out/production/Exercicio Extra(ArrayList)/.idea/Exercicio Extra(ArrayList).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercício  (Interface, Enumeração, Pacote, Exceção e Arquivo/.idea/Exercício  (Interface, Enumeração, Pacote, Exceção e Arquivo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercício  (Interface, Enumeração, Pacote, Exceção e Arquivo/out/production/Exercício  (Interface, Enumeração, Pacote, Exceção e Arquivo/.idea/Exercício  (Interface, Enumeração, Pacote, Exceção e Arquivo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/out/production/Interface/Interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface_Grafica/src/Aplicacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface_Grafica/src/Form1/Form1.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface_Grafica/src/Form1/Form1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pacote/.idea/Pacote.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parametro/Exercicio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parametro/src/Parametro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parametro/src/out/production/Parametro/Parametro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Revisão_Prova/.idea/Revisão_Prova.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Revisão_Prova/Catalogo Pessoas/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Revisão_Prova/Exercicios/Exercicios.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Revisão_Prova/Veiculos/Veiculos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Revisão_Prova/Veiculos/out/production/Revisão_Prova/.idea/Revisão_Prova.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trabalho_1/.idea/Trabalho_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trabalho_1/out/production/Trabalho_1/.idea/Trabalho_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trabalho_2/.idea/Trabalho_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trabalho_2/out/production/Trabalho_2/.idea/Trabalho_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/genérico/genérico.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/genérico/out/production/genérico/genericos/genérico.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gerenalizaçao/.idea/gerenalizaçao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gerenalizaçao/Veiculo/Veiculo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gerenalizaçao/Veiculo/out/production/Veiculo/Veiculo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gerenalizaçao/Vendedor/Vendedor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gerenalizaçao/Vendedor/out/production/Vendedor/Vendedor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gerenalizaçao/out/production/gerenalizaçao/.idea/gerenalizaçao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leitura_escrita_arquivo/Parametro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/referencias (ArrayList)/.idea/referencias (ArrayList).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alest I/FILA/.idea/FILA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alest I/FILA/out/production/FILA/.idea/FILA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alest I/Lista Arranjo (emblema)/Lista Arranjo (emblema).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alest I/Lista Arranjo (emblema)/out/production/Lista Arranjo (emblema)/Lista Arranjo (emblema).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alest I/Lista Duplamente Encadeada/Lista Duplamente Encadeada.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alest I/Lista Encadeada/.idea/Lista Encadeada.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alest I/Lista Encadeada/out/production/Lista Encadeada/.idea/Lista Encadeada.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alest I/Lista Linear/ListaArranjo/ListaArranjo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alest I/Lista Linear/funcao/funcao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alest I/PILHA/.idea/PILHA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alest I/PILHA/StackArray/Exercicio1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alest I/PILHA/StackArray/StackArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alest I/PILHA/StackLinked/StackLinked.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alest I/Recursividade/.idea/Recursividade.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alest I/Recursividade/Inversao/Inversao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alest I/Recursividade/Potencia/Potencia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alest I/Recursividade/Soma/Soma.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alest I/Trabalho_1/.idea/Trabalho_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alest I/Trabalho_1/out/production/Trabalho_1/.idea/Trabalho_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alest I/Trabalho_2/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alest I/arvore_binaria_pesquisa/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alest I/arvore_binaria_pesquisa/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alest I/arvore_binaria_pesquisa/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alest I/arvore_binaria_pesquisa/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alest I/arvore_binaria_pesquisa/arvore_binaria_pesquisa.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2iCCR4ZoRCdAyVIR9LfirvkTlBA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/gabi/Desktop/POO",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-corretto-21.0.2-4caba194b151-fd297b8c" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08c9440e-bbdf-4efb-83f1-5c21e3eb8595" name="Changes" comment="" />
+      <created>1718985160946</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718985160946</updated>
+      <workItem from="1718985161948" duration="44000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

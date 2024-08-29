@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="334408f3-9a0e-4ddf-97ae-a91aff69142f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Intro. Software/GabrielaRoxo_MarcoPrisco/PairProgramming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cadastro_Cliente/Cadastro_Cliente.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cadastro_Cliente/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cadastro_Cliente/src/aplicacao/ACMERobots.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cadastro_Cliente/src/aplicacao/app.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cadastro_Cliente/src/dados/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cadastro_Cliente/src/dados/Empresarial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cadastro_Cliente/src/dados/Individual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coleçao/.idea/Coleçao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coleçao/out/production/Coleçao/.idea/Coleçao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Excecao/.idea/Excecao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Excecao/out/production/Excecao/.idea/Excecao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio Extra(ArrayList)/.idea/Exercicio Extra(ArrayList).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio Extra(ArrayList)/out/production/Exercicio Extra(ArrayList)/.idea/Exercicio Extra(ArrayList).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercício  (Interface, Enumeração, Pacote, Exceção e Arquivo/.idea/Exercício  (Interface, Enumeração, Pacote, Exceção e Arquivo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercício  (Interface, Enumeração, Pacote, Exceção e Arquivo/out/production/Exercício  (Interface, Enumeração, Pacote, Exceção e Arquivo/.idea/Exercício  (Interface, Enumeração, Pacote, Exceção e Arquivo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface/Interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface/out/production/Interface/Interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface_Grafica/Interface_Grafica.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface_Grafica/src/Aplicacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface_Grafica/src/Form1/Form1.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface_Grafica/src/Form1/Form1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pacote/.idea/Pacote.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parametro/Exercicio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parametro/Parametro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parametro/src/Parametro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parametro/src/out/production/Parametro/Parametro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Revisão_Prova/.idea/Revisão_Prova.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Revisão_Prova/Catalogo Pessoas/Catalogo Pessoas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Revisão_Prova/Catalogo Pessoas/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Revisão_Prova/Exercicios/Exercicios.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Revisão_Prova/Revisão_Prova.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Revisão_Prova/Veiculos/Veiculos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Revisão_Prova/Veiculos/out/production/Revisão_Prova/.idea/Revisão_Prova.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Teste_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aplicacao/aplicacao/ACMERobots.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dados/dados/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dados/dados/Empresarial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dados/dados/Individual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Teste_interface_grafica/Teste_interface_grafica.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Teste_interface_grafica/src/Screen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trabalho_1/.idea/Trabalho_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trabalho_1/out/production/Trabalho_1/.idea/Trabalho_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trabalho_2/.idea/Trabalho_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trabalho_2/out/production/Trabalho_2/.idea/Trabalho_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../genérico/genérico.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../genérico/out/production/genérico/genericos/genérico.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gerenalizaçao/.idea/gerenalizaçao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gerenalizaçao/Veiculo/Veiculo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gerenalizaçao/Veiculo/out/production/Veiculo/Veiculo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gerenalizaçao/Vendedor/Vendedor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gerenalizaçao/Vendedor/out/production/Vendedor/Vendedor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gerenalizaçao/gerenalizaçao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gerenalizaçao/out/production/gerenalizaçao/.idea/gerenalizaçao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leitura_escrita_arquivo/Parametro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leitura_escrita_arquivo/leitura_escrita_arquivo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../referencias (ArrayList)/.idea/referencias (ArrayList).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../referencias (ArrayList)/AppLobo/AppLobo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../referencias (ArrayList)/Lobo/Lobo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../alest I/FILA/.idea/FILA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../alest I/FILA/out/production/FILA/.idea/FILA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../alest I/Lista Arranjo (emblema)/Lista Arranjo (emblema).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../alest I/Lista Arranjo (emblema)/out/production/Lista Arranjo (emblema)/Lista Arranjo (emblema).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../alest I/Lista Duplamente Encadeada/Lista Duplamente Encadeada.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../alest I/Lista Encadeada/.idea/Lista Encadeada.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../alest I/Lista Encadeada/out/production/Lista Encadeada/.idea/Lista Encadeada.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../alest I/Lista Linear/ListaArranjo/ListaArranjo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../alest I/Lista Linear/funcao/funcao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../alest I/PILHA/.idea/PILHA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../alest I/PILHA/StackArray/Exercicio1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../alest I/PILHA/StackArray/StackArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../alest I/PILHA/StackLinked/StackLinked.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../alest I/Recursividade/.idea/Recursividade.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../alest I/Recursividade/Inversao/Inversao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../alest I/Recursividade/Potencia/Potencia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../alest I/Recursividade/Soma/Soma.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../alest I/Trabalho_1/.idea/Trabalho_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../alest I/Trabalho_1/out/production/Trabalho_1/.idea/Trabalho_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../alest I/Trabalho_2/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../alest I/arvore_binaria_pesquisa/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../alest I/arvore_binaria_pesquisa/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../alest I/arvore_binaria_pesquisa/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../alest I/arvore_binaria_pesquisa/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../alest I/arvore_binaria_pesquisa/arvore_binaria_pesquisa.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2i1ZhHgH80qfO99uSYuwe9cyPFs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.CLIENTE.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Teste_3.executor": "Run",
+    "Application.Unnamed.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "21",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "/home/gabi/Desktop/POO/Teste_3/aplicacao",
+    "last_opened_file_path": "/home/gabi/Desktop/POO/Teste_3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/home/gabi/Desktop/POO/Trabalho_3/aplicacao1/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Teste_3" type="Application" factoryName="Application" activateToolWindowBeforeRun="false">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Teste_3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-corretto-21.0.2-4caba194b151-fd297b8c" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="334408f3-9a0e-4ddf-97ae-a91aff69142f" name="Changes" comment="" />
+      <created>1718660160864</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718660160864</updated>
+      <workItem from="1718660161901" duration="1453000" />
+      <workItem from="1718758202418" duration="27000" />
+      <workItem from="1718758258219" duration="175000" />
+      <workItem from="1718758913359" duration="15000" />
+      <workItem from="1718758939121" duration="174000" />
+      <workItem from="1719067978075" duration="262000" />
+      <workItem from="1719068301153" duration="1041000" />
+      <workItem from="1719071944070" duration="7000" />
+      <workItem from="1719072024149" duration="594000" />
+      <workItem from="1719072787665" duration="1837000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/aplicacao1/src/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

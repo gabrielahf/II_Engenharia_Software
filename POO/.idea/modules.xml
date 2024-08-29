@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/referencias (ArrayList)/AppLobo/AppLobo.iml" filepath="$PROJECT_DIR$/referencias (ArrayList)/AppLobo/AppLobo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Revisão_Prova/Catalogo Pessoas/Catalogo Pessoas.iml" filepath="$PROJECT_DIR$/Revisão_Prova/Catalogo Pessoas/Catalogo Pessoas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface_Grafica/Interface_Grafica.iml" filepath="$PROJECT_DIR$/Interface_Grafica/Interface_Grafica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/referencias (ArrayList)/Lobo/Lobo.iml" filepath="$PROJECT_DIR$/referencias (ArrayList)/Lobo/Lobo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO.iml" filepath="$PROJECT_DIR$/POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parametro/Parametro.iml" filepath="$PROJECT_DIR$/Parametro/Parametro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Revisão_Prova/Revisão_Prova.iml" filepath="$PROJECT_DIR$/Revisão_Prova/Revisão_Prova.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gerenalizaçao/gerenalizaçao.iml" filepath="$PROJECT_DIR$/gerenalizaçao/gerenalizaçao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leitura_escrita_arquivo/leitura_escrita_arquivo.iml" filepath="$PROJECT_DIR$/leitura_escrita_arquivo/leitura_escrita_arquivo.iml" />
+    </modules>
+  </component>
+</project>

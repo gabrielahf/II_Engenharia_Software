@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/POO/06_03/AppLobo/AppLobo.iml" filepath="$PROJECT_DIR$/POO/06_03/AppLobo/AppLobo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/II semestre (ES).iml" filepath="$PROJECT_DIR$/.idea/II semestre (ES).iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/06_03/Lobo/Lobo.iml" filepath="$PROJECT_DIR$/POO/06_03/Lobo/Lobo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/POO.iml" filepath="$PROJECT_DIR$/POO/POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alest I/alest I.iml" filepath="$PROJECT_DIR$/alest I/alest I.iml" />
+    </modules>
+  </component>
+</project>
